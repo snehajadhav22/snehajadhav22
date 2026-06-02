@@ -1,22 +1,21 @@
-# Hi 👋, I'm Sneha Jadhav
+<div align="center">
+
+# 👋 Hi, I'm Sneha Jadhav
 
 ### 🤖 AI Developer | Software Developer | Open Source Enthusiast
 
-🚀 Passionate about building intelligent solutions using Artificial Intelligence and modern technologies.
+Building intelligent solutions with AI, Machine Learning, and Modern Web Technologies.
 
-🌱 Currently exploring Machine Learning, Deep Learning, Generative AI, and Full-Stack Development.
-
-💡 I enjoy solving real-world problems through code and continuously learning new technologies.
+</div>
 
 ---
 
 ## 🚀 About Me
 
-* 🤖 Aspiring AI Engineer
-* 💻 Software Developer
-* 🌱 Learning AI, ML, Deep Learning & Cloud Technologies
-* 🔥 Interested in Open Source Contributions
-* 📚 Always learning and building projects
+* 🤖 Passionate about Artificial Intelligence & Machine Learning
+* 💻 Building real-world software projects
+* 🌱 Continuously learning new technologies
+* 🔥 Interested in Open Source Development
 * 📍 Mumbai, India
 
 ---
@@ -24,66 +23,63 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=snehajadhav22&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehajadhav22&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehajadhav22&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehajadhav22&theme=tokyo-night" />
-</p>
-
----
-
-## 🎯 Current Goals
-
-* Build impactful AI projects
-* Contribute to Open Source
-* Strengthen DSA & Problem Solving
-* Learn Advanced Machine Learning
-* Secure AI/Software Development Opportunities
+* Artificial Intelligence
+* Machine Learning
+* Python Development
+* Problem Solving
+* Open Source Contributions
 
 ---
 
 ## 🌟 Featured Projects
 
-* 🤖 AI-Based Applications
-* 📊 Machine Learning Projects
-* 🌐 Web Development Projects
-* ⚡ Automation Tools
+### 📚 AI Study Planner
+
+A smart study planner that helps students organize subjects, track progress, and stay productive.
+
+### ✋ Gesture Controlled Presentation
+
+Control PowerPoint presentations using hand gestures with Python and MediaPipe.
+
+### 🧠 MindBloom AI
+
+An AI-powered project focused on productivity and intelligent assistance.
 
 ---
 
-## 📫 Connect With Me
+## 📊 Most Used Languages
 
-* GitHub: https://github.com/snehajadhav22
-* LinkedIn: Add your LinkedIn profile here
-* Portfolio: Coming Soon
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehajadhav22&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### ✨ Motto
+## 🌐 Connect With Me
 
-"Keep Learning, Keep Building, Keep Growing."
+<p align="center">
+<a href="https://github.com/snehajadhav22">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+## 💡 Quote
+
+> "Every expert was once a beginner. Keep building, keep learning."
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
