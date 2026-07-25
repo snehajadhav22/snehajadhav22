@@ -1,114 +1,60 @@
-<h1 align="center">Hi 👋, I'm Sneha Jadhav</h1>
+<div align="center">
 
-<h3 align="center">
-AI Developer • Full Stack Developer • M.Sc. Computer Science Student
-</h3>
+# 👋 Hi, I'm Sneha Jadhav
 
-<p align="center">
-Passionate about building AI-powered applications, modern web platforms, and intelligent software solutions that solve real-world problems.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Python+Developer;Full+Stack+Developer;Data+Structures+%26+Algorithms;Building+Real-World+Projects" />
 
----
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
 
-## 🚀 About Me
+### 💡 *"Turning ideas into intelligent software."*
 
-- 🎓 M.Sc. Computer Science Student
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 💻 Full Stack Developer (React, FastAPI, MongoDB)
-- 🌱 Currently learning Advanced AI, System Design & Cloud
-- 🔥 Interested in Open Source Contributions
-- 🧠 Solving real-world problems with AI
-- 📍 Mumbai, India
+</div>
 
 ---
 
-## 💻 Tech Stack
+# 🚀 About Me
+
+🎓 M.Sc. Computer Science Student
+
+💻 Passionate about building AI-powered applications
+
+🤖 Exploring Machine Learning and Intelligent Systems
+
+🧠 Strong interest in Data Structures & Algorithms
+
+🌱 Continuously learning modern technologies
+
+🚀 Love creating real-world software that solves problems
+
+📍 Mumbai, India
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
----
-
-### Frontend
-
-React
-
-Vite
-
-Tailwind CSS
-
-HTML5
-
-CSS3
-
-Framer Motion
-
----
-
-### Backend
-
-FastAPI
-
-Node.js
-
-Express.js
-
-REST APIs
-
-JWT Authentication
-
-Firebase Authentication
-
----
-
-### Database
-
-MongoDB Atlas
-
-Firebase Firestore
-
-MySQL
-
----
+<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql" />
 
 ### AI / ML
 
-Google Gemini API
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-Machine Learning
+### Web Development
 
-OpenCV
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,fastapi,nodejs" />
 
-MediaPipe
+### Database
 
-NumPy
-
-Pandas
-
-Scikit-learn
-
----
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
 
 ### Tools
 
-Git
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
 
-GitHub
-
-VS Code
-
-Postman
-
-Render
-
-Vercel
+</div>
 
 ---
 
@@ -116,16 +62,13 @@ Vercel
 
 ## 🤖 CodeMentor AI
 
-AI-powered Coding Interview & Learning Platform.
-
-### Features
+An AI-powered coding interview preparation platform featuring
 
 - AI Code Review
-- AI Mock Interview
+- AI Mock Interviews
 - Resume ATS Analyzer
-- Personalized Learning Roadmap
-- Analytics Dashboard
-- Certificates
+- Personalized Roadmaps
+- Progress Dashboard
 - Admin Panel
 
 **Tech Stack**
@@ -136,19 +79,15 @@ React • FastAPI • MongoDB • Gemini AI
 
 ## 🎓 AI Study Planner
 
-A smart AI-powered study planner helping students manage study schedules and monitor progress.
-
-**Tech Stack**
-
-React • JavaScript • Firebase
+An intelligent planner that helps students organize study schedules, monitor progress, and stay productive.
 
 ---
 
 ## ✋ Gesture Controlled Presentation
 
-Control PowerPoint presentations using hand gestures using Computer Vision.
+Control PowerPoint presentations using hand gestures with Computer Vision.
 
-**Tech Stack**
+Built using
 
 Python • OpenCV • MediaPipe
 
@@ -156,156 +95,114 @@ Python • OpenCV • MediaPipe
 
 ## 💄 GlowAura
 
-AI-powered virtual beauty & makeup recommendation platform.
-
-**Tech Stack**
-
-React • Firebase • MongoDB
+AI-powered beauty recommendation and virtual try-on platform.
 
 ---
 
-# 📈 GitHub Statistics
+# 📈 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=snehajadhav22&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=snehajadhav22&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehajadhav22&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=snehajadhav22&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehajadhav22&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🎯 Current Goals
-
-- 🚀 Build Production-Ready AI Applications
-- 📚 Prepare for UGC NET
-- 🌟 Contribute to Open Source
-- 💼 Secure an AI/Software Engineering Role
-- 📖 Learn Cloud & System Design
-
----
-
-# 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 💻 GitHub: https://github.com/snehajadhav22
-- 📧 Email: your-email@example.com
-
----
-
-# 💡 Quote
-
-> *"Great software is built one commit at a time. Stay curious, keep building, and never stop learning."*
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</p><div align="center">
-
-# 👋 Hi, I'm Sneha Jadhav
-
-### 🤖 AI Developer | Software Developer | Open Source Enthusiast
-
-Building intelligent solutions with AI, Machine Learning, and Modern Web Technologies.
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehajadhav22&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🔥 GitHub Streak
 
-* 🤖 Passionate about Artificial Intelligence & Machine Learning
-* 💻 Building real-world software projects
-* 🌱 Continuously learning new technologies
-* 🔥 Interested in Open Source Development
-* 📍 Mumbai, India
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=snehajadhav22&theme=tokyonight&hide_border=true"/>
 
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode" />
-</p>
+</div>
 
 ---
 
-## 🎯 Current Focus
+# 📊 Contribution Graph
 
-* Artificial Intelligence
-* Machine Learning
-* Python Development
-* Problem Solving
-* Open Source Contributions
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehajadhav22&theme=tokyo-night"/>
 
-## 🌟 Featured Projects
-
-### 📚 AI Study Planner
-
-A smart study planner that helps students organize subjects, track progress, and stay productive.
-
-### ✋ Gesture Controlled Presentation
-
-Control PowerPoint presentations using hand gestures with Python and MediaPipe.
-
-### 🧠 MindBloom AI
-
-An AI-powered project focused on productivity and intelligent assistance.
+</div>
 
 ---
 
-## 📊 Most Used Languages
+# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehajadhav22&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=snehajadhav22&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🎯 Currently Learning
 
-<p align="center">
-<a href="https://github.com/snehajadhav22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+```text
+🐍 Advanced Python
+
+🤖 Machine Learning
+
+🧠 Deep Learning
+
+📚 Data Structures & Algorithms
+
+⚡ FastAPI
+
+🐳 Docker
+
+☁️ Cloud Computing
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
+<a href="https://github.com/snehajadhav22">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
 ---
 
-## 💡 Quote
+# 💭 Quote
 
-> "Every expert was once a beginner. Keep building, keep learning."
+> **"Code. Learn. Build. Repeat."**
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/snehajadhav22/snehajadhav22/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=snehajadhav22&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+### 🚀 Happy Coding!
 
 </div>
