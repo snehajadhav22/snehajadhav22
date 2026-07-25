@@ -218,7 +218,7 @@ Virtual beauty platform with intelligent recommendations and interactive user ex
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href=" https://www.linkedin.com/in/sneha-jadhavv/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
@@ -230,7 +230,7 @@ Virtual beauty platform with intelligent recommendations and interactive user ex
 
 &nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto: snehajadhav0522@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
