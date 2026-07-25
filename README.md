@@ -218,7 +218,7 @@ Virtual beauty platform with intelligent recommendations and interactive user ex
 
 <p align="center">
 
-<a href=" https://www.linkedin.com/in/sneha-jadhavv/">
+<a href="https://.linkedin.com/in/sneha-jadhavv/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
