@@ -1,155 +1,106 @@
 <p align="center">
-  <img width="1536" height="1024" alt="ChatGPT Image Jul 25, 2026, 07_57_54 PM" src="https://github.com/user-attachments/assets/9ae03a2f-a690-491f-a09f-068e849367f5" />
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Sneha Jadhav Banner"/>
+  <img src="https://github.com/user-attachments/assets/9ae03a2f-a690-491f-a09f-068e849367f5" width="100%" alt="Sneha Jadhav Banner"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Sneha Jadhav</h1>
+<h1 align="center">Hi 👋, I'm Sneha Jadhav</h1>
 
 <h3 align="center">
 AI & Machine Learning Developer • Python Developer • Full Stack Developer
 </h3>
 
 <p align="center">
-Building intelligent software that solves real-world problems through Artificial Intelligence and modern technologies.
+Building intelligent software with Artificial Intelligence, Machine Learning, and modern web technologies.
+</p>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sneha-jadhavv/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+</a>
+
+<a href="https://github.com/snehajadhav22">
+<img src="https://skillicons.dev/icons?i=github" height="42"/>
+</a>
 </p>
 
 ---
 
-## ✨ Who Am I?
+# 👩‍💻 About Me
 
-```python
-class SnehaJadhav:
+🎓 M.Sc. Computer Science Student
 
-    def __init__(self):
-        self.education = "M.Sc. Computer Science"
-        self.location = "Mumbai, India"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Python",
-            "Full Stack Development",
-            "Data Structures & Algorithms"
-        ]
+🤖 Passionate about Artificial Intelligence & Machine Learning
 
-    def current_goal(self):
-        return "Building production-ready AI applications."
-```
+💻 Building modern AI-powered applications
+
+🌱 Always learning new technologies
+
+🚀 Interested in Backend Engineering & Full Stack Development
 
 ---
 
-# 🚀 Current Mission
+# 🚀 Currently Building
 
-🧠 Building AI-powered software
-
-🐍 Mastering Python
-
-🤖 Exploring Machine Learning
-
-💻 Developing scalable web applications
-
-📚 Improving DSA & Problem Solving
-
-🌍 Contributing to Open Source
+- 🤖 CodeMentor AI
+- 💼 CareerPilot AI
+- 📚 AI Study Planner
+- ✋ Gesture Controlled Presentation
+- 💄 GlowAura
 
 ---
 
-# 💻 Tech Arsenal
-
-<table>
-<tr>
-<td>
+# ⚡ Tech Stack
 
 ### Languages
 
-- 🐍 Python
-- 🌐 JavaScript
-- 🗄 SQL
-- ⚙️ C++
-
-</td>
-
-<td>
-
-### AI & ML
-
-- 🤖 Machine Learning
-- 🧠 TensorFlow
-- 📊 Scikit-learn
-- ✨ Google Gemini API
-
-</td>
-</tr>
-
-<tr>
-<td>
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql"/>
+</p>
 
 ### Frontend
 
-- ⚛ React
-- 🎨 Tailwind CSS
-- 🌐 HTML5
-- 🎯 CSS3
-
-</td>
-
-<td>
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
+</p>
 
 ### Backend
 
-- ⚡ FastAPI
-- 🚀 Node.js
-- 🔗 REST APIs
-- 🔐 JWT Authentication
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
 
-</td>
-</tr>
+### AI / ML
 
-<tr>
-<td>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+</p>
+
+<p>
+
+Google Gemini API • OpenCV • MediaPipe • Scikit-Learn
+
+</p>
 
 ### Database
 
-- 🍃 MongoDB
-- 🔥 Firebase
-- 🛢 MySQL
-
-</td>
-
-<td>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql"/>
+</p>
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- Vercel
-- Render
-
-</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
+</p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
 ## 🤖 CodeMentor AI
 
-> AI-powered coding interview preparation platform
+AI-powered coding interview preparation platform.
 
-✨ Features
-
-- AI Code Review
-- AI Mock Interviews
-- Resume ATS Analyzer
-- Learning Roadmaps
-- Analytics Dashboard
-- Certificates
-- Admin Panel
-
-**Stack**
+**Tech**
 
 React • FastAPI • MongoDB • Gemini AI
 
@@ -157,19 +108,19 @@ React • FastAPI • MongoDB • Gemini AI
 
 ## 💼 CareerPilot AI
 
-AI-powered career guidance platform helping students discover suitable career paths and learning recommendations.
+AI career guidance platform with personalized recommendations.
 
 ---
 
 ## 📚 AI Study Planner
 
-Smart planner that organizes study schedules and tracks learning progress.
+AI-powered study planning application.
 
 ---
 
 ## ✋ Gesture Controlled Presentation
 
-Control presentation slides using hand gestures with Computer Vision.
+Control presentation slides using hand gestures.
 
 Python • OpenCV • MediaPipe
 
@@ -177,7 +128,7 @@ Python • OpenCV • MediaPipe
 
 ## 💄 GlowAura
 
-Virtual beauty platform with intelligent recommendations and interactive user experience.
+Virtual beauty platform powered by Artificial Intelligence.
 
 ---
 
@@ -185,19 +136,21 @@ Virtual beauty platform with intelligent recommendations and interactive user ex
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=snehajadhav22&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehajadhav22&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehajadhav22&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehajadhav22&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
+<p align="center">
 
-# 📈 Activity Graph
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehajadhav22&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehajadhav22&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehajadhav22&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -205,61 +158,37 @@ Virtual beauty platform with intelligent recommendations and interactive user ex
 
 # 🎯 2026 Goals
 
-- ✅ Build Production-Ready AI Projects
-- ✅ Master Machine Learning
-- ✅ Improve DSA
-- ⏳ Learn Docker
-- ⏳ Explore AWS
-- ⏳ Contribute to Open Source
+- 🚀 Build impactful AI applications
+- 🧠 Master Machine Learning
+- 📚 Strengthen Data Structures & Algorithms
+- ☁️ Learn Cloud & DevOps
+- 🤝 Contribute to Open Source
+- 💼 Secure a Software Development role
 
 ---
 
-# 🌍 Let's Connect
+# 🌐 Connect
 
-<p align="center">
+<p align="left">
 
-<a href="https://.linkedin.com/in/sneha-jadhavv/">
+<a href="https://www.linkedin.com/in/sneha-jadhavv/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://github.com/snehajadhav22">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto: snehajadhav0522@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </p>
 
 ---
 
-# 💭 Philosophy
-
-```python
-while True:
-
-    Learn()
-
-    Build()
-
-    Improve()
-
-    Repeat()
-```
-
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💙 Thanks for visiting!
 
-*"Building today. Improving tomorrow."*
+*"Code with purpose. Learn continuously. Build what matters."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=120&section=footer"/>
 
 </div>
-
-
