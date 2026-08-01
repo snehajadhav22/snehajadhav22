@@ -34,13 +34,13 @@ Building intelligent applications and exploring
 - ☁️ Cloud Computing
 - 🔬 AI + Cloud Research
 
-Currently focused on **DSA, Machine Learning, Generative AI and Cloud Computing**.
+Currently focused on **DSA, Machine Learning, Generative AI, and Cloud Computing**.
 
 ---
 
 ## ⚡ Tech Stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,express,fastapi,mongodb,mysql,firebase,aws,docker,git,github" />
 </p>
 
@@ -68,31 +68,31 @@ alt="LeetCode Statistics"
 
 ## 🚀 Featured Projects
 
-### CareerPilot AI
+### 🤖 CareerPilot AI
 AI-powered career guidance and personalized action planning.  
 `React` `Node.js` `Express` `MongoDB` `Gemini API`
 
-### CodeMentor AI
-AI-powered coding and technical interview preparation.  
+### 🤖 CodeMentor AI
+AI-powered coding and technical interview preparation platform.  
 `React` `FastAPI` `MongoDB` `Gemini AI`
 
-### AI Study Planner
+### 📚 AI Study Planner
 Personalized AI-powered study planning application.  
 `AI` `Personalization` `Education`
 
-### Gesture Controlled Presentation
-Control presentation slides using hand gestures.  
+### ✋ Gesture Controlled Presentation
+Computer vision application for controlling presentation slides using hand gestures.  
 `Python` `OpenCV` `MediaPipe`
 
-### GlowAura
+### 💄 GlowAura
 AI-powered virtual beauty and makeup experience.  
 `AI` `Computer Vision` `Virtual Try-On`
 
-### Eco Campus
+### 🌱 Eco Campus
 Campus sustainability tracking application.  
 `Web Development` `Data Tracking`
 
-### Campus Event Finder
+### 📅 Campus Event Finder
 Platform for discovering and managing campus events.  
 `Web Development` `Event Discovery`
 
@@ -116,26 +116,20 @@ Machine Learning · Reinforcement Learning · Cloud Computing · Resource Optimi
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
 <img
 height="165"
-src="https://github-readme-stats.vercel.app/api?username=snehajadhav22&show_icons=true&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api?username=snehajadhav22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
 alt="GitHub Statistics"
-/>
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehajadhav22&layout=compact&theme=tokyonight&hide_border=true"
-alt="Top Languages"
 />
 
 <br><br>
 
 <img
-src="https://streak-stats.demolab.com?user=snehajadhav22&theme=tokyonight&hide_border=true"
+src="https://streak-stats.demolab.com/?user=snehajadhav22&theme=tokyonight&hide_border=true"
 alt="GitHub Contribution Streak"
 />
 
