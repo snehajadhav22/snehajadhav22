@@ -69,31 +69,45 @@ alt="LeetCode Statistics"
 ## 🚀 Featured Projects
 
 ### 🤖 CareerPilot AI
-AI-powered career guidance and personalized action planning.  
+
+AI-powered career guidance and personalized action planning.
+
 `React` `Node.js` `Express` `MongoDB` `Gemini API`
 
 ### 🤖 CodeMentor AI
-AI-powered coding and technical interview preparation platform.  
+
+AI-powered coding and technical interview preparation platform.
+
 `React` `FastAPI` `MongoDB` `Gemini AI`
 
 ### 📚 AI Study Planner
-Personalized AI-powered study planning application.  
+
+Personalized AI-powered study planning application.
+
 `AI` `Personalization` `Education`
 
 ### ✋ Gesture Controlled Presentation
-Computer vision application for controlling presentation slides using hand gestures.  
+
+Computer vision application for controlling presentation slides using hand gestures.
+
 `Python` `OpenCV` `MediaPipe`
 
 ### 💄 GlowAura
-AI-powered virtual beauty and makeup experience.  
+
+AI-powered virtual beauty and makeup experience.
+
 `AI` `Computer Vision` `Virtual Try-On`
 
 ### 🌱 Eco Campus
-Campus sustainability tracking application.  
+
+Campus sustainability tracking application.
+
 `Web Development` `Data Tracking`
 
 ### 📅 Campus Event Finder
-Platform for discovering and managing campus events.  
+
+Platform for discovering and managing campus events.
+
 `Web Development` `Event Discovery`
 
 ---
@@ -113,27 +127,6 @@ Machine Learning · Reinforcement Learning · Cloud Computing · Resource Optimi
 ## 📚 Currently Learning
 
 `Python` → `DSA` → `Machine Learning` → `Generative AI` → `LLMs` → `Cloud` → `AI Research`
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=snehajadhav22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-alt="GitHub Statistics"
-/>
-
-<br><br>
-
-<img
-src="https://streak-stats.demolab.com/?user=snehajadhav22&theme=tokyonight&hide_border=true"
-alt="GitHub Contribution Streak"
-/>
-
-</div>
 
 ---
 
