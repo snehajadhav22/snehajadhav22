@@ -1,194 +1,204 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9ae03a2f-a690-491f-a09f-068e849367f5" width="100%" alt="Sneha Jadhav Banner"/>
-</p>
+<!-- ===================== HERO ===================== -->
 
-<h1 align="center">Hi 👋, I'm Sneha Jadhav</h1>
+<table>
+<tr>
+<td width="35%" align="center">
 
-<h3 align="center">
-AI & Machine Learning Developer • Python Developer • Full Stack Developer
-</h3>
+<img src="./profile.jpg" width="280" alt="Sneha Jadhav">
 
-<p align="center">
-Building intelligent software with Artificial Intelligence, Machine Learning, and modern web technologies.
-</p>
+</td>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sneha-jadhavv/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-</a>
+<td width="65%">
+
+# Hi 👋, I'm Sneha Jadhav
+
+### MSc Computer Science Student
+
+**AI & Machine Learning Enthusiast • Python Developer • Full-Stack Developer**
+
+🤖 Building AI-powered applications  
+💻 Exploring modern web technologies  
+🐍 Strengthening Python & DSA  
+☁️ Exploring Cloud Computing  
+🔬 Interested in AI + Cloud research  
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <a href="https://github.com/snehajadhav22">
-<img src="https://skillicons.dev/icons?i=github" height="42"/>
+<img src="https://img.shields.io/badge/GitHub-snehajadhav22-181717?style=for-the-badge&logo=github">
 </a>
-</p>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 M.Sc. Computer Science Student
+🎓 MSc Computer Science Student with a strong interest in Artificial Intelligence and software development.
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+🤖 Passionate about **AI, Machine Learning, Generative AI and intelligent applications**.
 
-💻 Building modern AI-powered applications
+💻 Building projects using **Python, React, Node.js, MongoDB and modern web technologies**.
 
-🌱 Always learning new technologies
+☁️ Exploring **Cloud Computing** and the combination of AI + Cloud.
 
-🚀 Interested in Backend Engineering & Full Stack Development
+🔬 Interested in **AI research** and real-world applications of Machine Learning.
 
----
-
-# 🚀 Currently Building
-
-- 🤖 CodeMentor AI
-- 💼 CareerPilot AI
-- 📚 AI Study Planner
-- ✋ Gesture Controlled Presentation
-- 💄 GlowAura
+🌱 Currently focusing on learning, building projects, solving problems and developing strong technical fundamentals.
 
 ---
 
-# ⚡ Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-</p>
-
-<p>
-
-Google Gemini API • OpenCV • MediaPipe • Scikit-Learn
-
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
-### Tools
+### AI / Machine Learning
+
+`Google Gemini API` • `OpenCV` • `MediaPipe` • `Scikit-Learn`
+
+### Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
 </p>
+
+---
+
+# 🧩 Problem Solving
+
+<div align="center">
+
+### Data Structures & Algorithms
+
+🎯 **Currently building my problem-solving skills**
+
+<br>
+
+`Arrays` • `Strings` • `Hashing` • `Searching` • `Sorting`
+
+`Linked Lists` • `Stack` • `Queue` • `Trees` • `Graphs`
+
+`Dynamic Programming`
+
+<br>
+
+**Goal: Consistent practice → Strong fundamentals → Better problem solving**
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
+## 🤖 CareerPilot AI
+
+AI-powered career guidance platform designed to help users turn their career goals into personalized action plans.
+
+**Tech Stack:**  
+`React` • `Vite` • `Node.js` • `Express` • `MongoDB` • `JWT` • `Gemini API`
+
+---
+
 ## 🤖 CodeMentor AI
 
-AI-powered coding interview preparation platform.
+AI-powered coding and interview preparation platform designed to help users improve their technical interview skills.
 
-**Tech**
-
-React • FastAPI • MongoDB • Gemini AI
-
----
-
-## 💼 CareerPilot AI
-
-AI career guidance platform with personalized recommendations.
-
----
-
-## 📚 AI Study Planner
-
-AI-powered study planning application.
+**Tech Stack:**  
+`React` • `FastAPI` • `MongoDB` • `Gemini AI`
 
 ---
 
 ## ✋ Gesture Controlled Presentation
 
-Control presentation slides using hand gestures.
+A computer-vision project that allows users to control presentation slides using hand gestures.
 
-Python • OpenCV • MediaPipe
+**Tech Stack:**  
+`Python` • `OpenCV` • `MediaPipe`
 
 ---
 
 ## 💄 GlowAura
 
-Virtual beauty platform powered by Artificial Intelligence.
+AI-powered virtual beauty platform exploring intelligent and interactive makeup experiences.
+
+**Focus:**  
+`AI` • `Computer Vision` • `Virtual Try-On` • `Web Development`
 
 ---
 
-# 📊 GitHub Analytics
+## 🌱 Eco Campus
 
-<p align="center">
+A campus-focused project designed to encourage sustainable practices and track carbon-saving activities.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehajadhav22&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehajadhav22&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehajadhav22&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehajadhav22&theme=tokyo-night&hide_border=true"/>
-
-</p>
+**Focus:**  
+`Web Development` • `Sustainability` • `Data Tracking`
 
 ---
 
-# 🎯 2026 Goals
+# 🔬 Research Interests
 
-- 🚀 Build impactful AI applications
-- 🧠 Master Machine Learning
-- 📚 Strengthen Data Structures & Algorithms
-- ☁️ Learn Cloud & DevOps
-- 🤝 Contribute to Open Source
-- 💼 Secure a Software Development role
+## AI + Cloud Computing
 
----
+I'm interested in applying Artificial Intelligence to Cloud Computing to solve real-world optimization problems.
 
-# 🌐 Connect
+### Current Research Direction
 
-<p align="left">
+**AI-Driven Energy-Efficient Resource Allocation in Cloud Data Centers**
 
-<a href="https://www.linkedin.com/in/sneha-jadhavv/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+Exploring how **Machine Learning and Reinforcement Learning** can be used for intelligent cloud resource allocation while improving energy efficiency.
 
-<a href="https://github.com/snehajadhav22">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
+### Areas of Interest
 
-</p>
+`Artificial Intelligence`  
+`Machine Learning`  
+`Reinforcement Learning`  
+`Cloud Computing`  
+`Resource Allocation`  
+`Energy Efficiency`
 
 ---
 
-<div align="center">
+# 📚 Currently Learning
 
-### 💙 Thanks for visiting!
-
-*"Code with purpose. Learn continuously. Build what matters."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=120&section=footer"/>
-
-</div>
+```text
+Python
+   ↓
+Data Structures & Algorithms
+   ↓
+Machine Learning
+   ↓
+Generative AI & LLMs
+   ↓
+Cloud Computing
+   ↓
+AI + Cloud Research
