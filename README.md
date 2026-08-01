@@ -16,7 +16,7 @@ Building intelligent applications • Solving problems • Exploring AI & Cloud
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/snehajadhav2205/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
@@ -26,8 +26,8 @@ Building intelligent applications • Solving problems • Exploring AI & Cloud
 
 ## 👩‍💻 About Me
 
-I'm an **MSc Computer Science student** interested in Artificial
-Intelligence, Machine Learning, software development, and cloud computing.
+I'm an **MSc Computer Science student** interested in Artificial Intelligence,
+Machine Learning, software development, and cloud computing.
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🐍 Python & Data Structures
@@ -36,8 +36,8 @@ Intelligence, Machine Learning, software development, and cloud computing.
 - 🔬 AI + Cloud Research
 - 🚀 Building practical, real-world applications
 
-Currently, I'm focused on strengthening my **problem-solving, Machine
-Learning, Generative AI, and cloud computing skills**.
+Currently focused on strengthening my **problem-solving, Machine Learning,
+Generative AI, and Cloud Computing skills**.
 
 ---
 
@@ -67,7 +67,7 @@ Learning, Generative AI, and cloud computing skills**.
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
-### AI / ML
+### AI / Machine Learning
 
 `Google Gemini API` · `OpenCV` · `MediaPipe` · `Scikit-Learn`
 
@@ -83,16 +83,24 @@ Learning, Generative AI, and cloud computing skills**.
 
 <div align="center">
 
-### 💻 Live Coding Progress
+### 💻 Live LeetCode Progress
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/snehajadhav2205/">
 
 <img
-src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap"
+src="https://leetcard.jacoblin.cool/snehajadhav2205?theme=dark&ext=heatmap"
 width="720"
-alt="Live LeetCode Statistics"
+alt="LeetCode Statistics"
 />
 
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/snehajadhav2205/">
+<img
+src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+/>
 </a>
 
 <br><br>
@@ -109,8 +117,8 @@ alt="Live LeetCode Statistics"
 
 </div>
 
-> 🎯 My goal is to develop strong algorithmic thinking by understanding
-> problem-solving patterns and consistently practicing.
+> 🎯 **Goal:** Build strong algorithmic thinking by understanding patterns
+> and consistently solving problems.
 
 ---
 
@@ -134,7 +142,8 @@ alt="GitHub Contribution Snake"
 AI-powered career guidance platform designed to turn career goals into
 personalized action plans.
 
-**Tech:** React · Vite · Node.js · Express · MongoDB · JWT · Gemini API
+**Tech Stack:**  
+React · Vite · Node.js · Express · MongoDB · JWT · Gemini API
 
 ---
 
@@ -142,7 +151,8 @@ personalized action plans.
 
 AI-powered coding and technical interview preparation platform.
 
-**Tech:** React · FastAPI · MongoDB · Gemini AI
+**Tech Stack:**  
+React · FastAPI · MongoDB · Gemini AI
 
 ---
 
@@ -151,7 +161,8 @@ AI-powered coding and technical interview preparation platform.
 AI-powered study planning application designed to create personalized
 learning plans and improve study consistency.
 
-**Focus:** Artificial Intelligence · Personalization · Education
+**Focus:**  
+Artificial Intelligence · Personalization · Education
 
 ---
 
@@ -160,7 +171,8 @@ learning plans and improve study consistency.
 Computer vision application that allows presentation slides to be
 controlled using hand gestures.
 
-**Tech:** Python · OpenCV · MediaPipe
+**Tech Stack:**  
+Python · OpenCV · MediaPipe
 
 ---
 
@@ -169,7 +181,8 @@ controlled using hand gestures.
 AI-powered virtual beauty platform exploring intelligent makeup
 recommendations and virtual try-on experiences.
 
-**Focus:** AI · Computer Vision · Virtual Try-On · Web Development
+**Focus:**  
+AI · Computer Vision · Virtual Try-On · Web Development
 
 ---
 
@@ -178,7 +191,8 @@ recommendations and virtual try-on experiences.
 Sustainability-focused application designed to track environmental
 activities and encourage greener campus practices.
 
-**Focus:** Web Development · Sustainability · Data Tracking
+**Focus:**  
+Web Development · Sustainability · Data Tracking
 
 ---
 
@@ -186,7 +200,8 @@ activities and encourage greener campus practices.
 
 Application designed to help students discover and manage campus events.
 
-**Focus:** Web Development · Student Community · Event Discovery
+**Focus:**  
+Web Development · Student Community · Event Discovery
 
 ---
 
@@ -314,7 +329,7 @@ alt="GitHub Contribution Activity"
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/snehajadhav2205/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
