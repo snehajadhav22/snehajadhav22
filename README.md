@@ -1,580 +1,218 @@
-Create a complete, modern, professional and visually impressive GitHub Profile README.md for me.
+<div align="center">
 
-My GitHub username:
-snehajadhav22
+<img src="./sneha.jpeg" width="160" height="160" alt="Sneha Jadhav">
 
-My name:
-Sneha Jadhav
+# Hi 👋, I'm Sneha Jadhav
 
-Education:
-MSc Computer Science Student
+### MSc Computer Science Student | AI & ML Enthusiast | Python Developer
 
-Professional identity:
-- AI & Machine Learning Enthusiast
-- Python Developer
-- Full-Stack Developer
-- Aspiring AI Researcher
+Building intelligent applications • Solving problems • Exploring AI + Cloud
 
-My interests:
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Large Language Models (LLMs)
-- Python
-- Data Structures & Algorithms
-- Problem Solving
-- Full-Stack Development
-- Cloud Computing
-- AI + Cloud Research
+<br>
 
-==================================================
-IMPORTANT DESIGN REQUIREMENTS
-==================================================
+<a href="https://github.com/snehajadhav22">
+<img src="https://img.shields.io/badge/GitHub-snehajadhav22-181717?style=for-the-badge&logo=github">
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
 
-I want the README to look like a high-quality professional developer portfolio.
+</div>
 
-The design should be:
-- Modern
-- Clean
-- Professional
-- Minimal but visually impressive
-- Suitable for software recruiters
-- Suitable for product-based companies
-- Suitable for professors/researchers and future PhD opportunities
-- Well spaced
-- Easy to read
-- Not childish
-- Not overloaded with emojis
-- Not a generic GitHub template
+---
 
-Use HTML + Markdown where useful.
-
-Do NOT make the README unnecessarily huge.
-
-==================================================
-1. HERO SECTION
-==================================================
-
-Create an attractive hero section at the top.
-
-I have uploaded my personal photo to the repository.
-
-EXACT PHOTO FILE NAME:
-
-sneha.jpeg
-
-Use EXACTLY:
-
-<img src="./sneha.jpeg" ...>
-
-Do NOT use:
-profile.jpg
-profile.jpeg
-sneha.jpg
-
-The photo should appear prominently in the hero section.
-
-Use a professional circular or rounded presentation.
-
-The hero section should contain:
-
-Hi 👋, I'm Sneha Jadhav
-
-MSc Computer Science Student
-
-AI & Machine Learning Enthusiast • Python Developer • Full-Stack Developer
-
-Also include a short professional introduction:
-
-"Building intelligent applications, exploring AI + Cloud, and continuously improving my problem-solving skills."
-
-Include GitHub and LinkedIn buttons.
-
-GitHub:
-https://github.com/snehajadhav22
-
-LinkedIn:
-Use the placeholder:
-
-YOUR_LINKEDIN_URL
-
-Do NOT invent my LinkedIn URL.
-
-==================================================
-2. ABOUT ME
-==================================================
-
-Create a concise professional About Me section.
-
-Mention:
+## 👩‍💻 About Me
 
 🎓 MSc Computer Science Student
 
-🤖 Interested in Artificial Intelligence & Machine Learning
+🤖 Interested in **Artificial Intelligence & Machine Learning**
 
-💻 Building AI-powered and full-stack applications
+🐍 Strengthening **Python, DSA & Problem Solving**
 
-🐍 Strengthening Python and DSA
+💻 Building **AI-powered and full-stack applications**
 
-☁️ Exploring Cloud Computing
+☁️ Exploring **Cloud Computing**
 
-🔬 Interested in AI + Cloud research
+🔬 Interested in **AI + Cloud research**
 
-🌱 Continuously learning and building
+🌱 Learning continuously through projects, coding and research
 
-Do not exaggerate my experience.
+---
 
-Do not call me an expert.
+# 🛠️ Tech Stack
 
-Use "learning", "building", "exploring", or "interested in" where appropriate.
+### Languages
 
-==================================================
-3. TECH STACK
-==================================================
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
+</p>
 
-Create a professional Tech Stack section.
+### Frontend
 
-Only include technologies that are relevant to my actual background.
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
-Languages:
+### Backend
 
-Python
-Java
-JavaScript
-TypeScript
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
-Frontend:
+### Database
 
-HTML
-CSS
-React
-Next.js
-Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
 
-Backend:
+### AI / ML
 
-Node.js
-Express
+`Google Gemini API` • `OpenCV` • `MediaPipe` • `Scikit-Learn`
 
-Database:
+### Cloud & Tools
 
-MongoDB
-MySQL
-Firebase
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
+</p>
 
-AI / ML:
+---
 
-Google Gemini API
-OpenCV
-MediaPipe
-Scikit-Learn
+# 🧩 Problem Solving & DSA
 
-Cloud / Tools:
+<div align="center">
 
-AWS
-Docker
-Git
-GitHub
-VS Code
+### 💻 My Coding Progress
 
-Use professional skill icons if possible.
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
 
-Do not add technologies just to make the profile look bigger.
+<img
+src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap"
+width="750"
+alt="LeetCode Statistics"
+/>
 
-==================================================
-4. PROBLEM SOLVING / DSA
-==================================================
+</a>
 
-THIS SECTION IS VERY IMPORTANT.
+<br>
 
-I want a professional Problem Solving / DSA section inspired by modern developer profiles that show coding progress.
+### 🎯 DSA Journey
 
-I want it to eventually show:
+🟢 **Easy** &nbsp;&nbsp; 🟡 **Medium** &nbsp;&nbsp; 🔴 **Hard**
 
-🧩 Problems Solved
-🟢 Easy
-🟡 Medium
-🔴 Hard
-📊 Submissions
-🔥 Streak / Activity
-🏆 Badges
+<br>
 
-The design should look like a professional achievement/statistics card, NOT simply:
+📊 Problems Solved • 🔥 Coding Activity • 🏆 Badges • 📅 Submission Heatmap
 
-"50/100 Problems"
+</div>
 
-I want it to visually communicate my coding progress.
+### 📚 Topics I'm Practicing
 
-IMPORTANT:
+| Topic | Status |
+|---|---|
+| Arrays | 🟢 Learning |
+| Strings | 🟢 Learning |
+| Hashing | 🟢 Learning |
+| Sorting | 🟢 Learning |
+| Searching | 🟢 Learning |
+| Two Pointers | 🟢 Learning |
+| Sliding Window | 🟢 Learning |
+| Binary Search | 🟢 Learning |
+| Linked Lists | 🟡 Practicing |
+| Stack & Queue | 🟡 Practicing |
+| Trees | 🔵 Upcoming |
+| Graphs | 🔵 Upcoming |
+| Dynamic Programming | 🔵 Upcoming |
 
-DO NOT INVENT ANY NUMBERS.
+> **Goal:** Build strong problem-solving and algorithmic thinking through consistent practice.
 
-DO NOT USE FAKE STATISTICS.
+---
 
-DO NOT CLAIM THAT I HAVE SOLVED 50, 100, 200 OR ANY OTHER NUMBER OF PROBLEMS.
+# 🚀 Featured Projects
 
-Initially, if no LeetCode data is connected, show something like:
+### 🤖 CareerPilot AI
 
-"🎯 Currently building my DSA & problem-solving skills"
-
-and list:
-
-Arrays
-Strings
-Hashing
-Searching
-Sorting
-Two Pointers
-Sliding Window
-Binary Search
-Linked Lists
-Stack
-Queue
-Trees
-Graphs
-Dynamic Programming
-
-Once my LeetCode account is connected, the section should be designed so that REAL statistics can be displayed.
-
-I want the section to support:
-
-Total Problems Solved
-Easy Problems
-Medium Problems
-Hard Problems
-Total Submissions
-Current Streak
-Badges
-
-If automatic LeetCode integration is possible through a reliable GitHub-compatible method, structure the README for that.
-
-If automatic integration is NOT possible directly, provide a clean placeholder and explain after the README how I can connect real LeetCode statistics.
-
-Include a "View LeetCode Profile" button.
-
-Do NOT invent the LeetCode username or URL.
-
-Use:
-
-YOUR_LEETCODE_URL
-
-as a placeholder.
-
-The DSA section should look professional and should be easy to update later.
-
-==================================================
-5. FEATURED PROJECTS
-==================================================
-
-Create a Featured Projects section.
-
-Use ONLY my actual projects.
-
-Project 1:
-
-CareerPilot AI
-
-Description:
 AI-powered career guidance platform that helps users turn career goals into personalized action plans.
 
-Tech Stack:
-React
-Vite
-Node.js
-Express
-MongoDB
-JWT
-Gemini API
+**Tech:** React • Vite • Node.js • Express • MongoDB • JWT • Gemini API
 
-Project 2:
+---
 
-CodeMentor AI
+### 🤖 CodeMentor AI
 
-Description:
 AI-powered coding and interview preparation platform.
 
-Tech Stack:
-React
-FastAPI
-MongoDB
-Gemini AI
+**Tech:** React • FastAPI • MongoDB • Gemini AI
 
-Project 3:
+---
 
-Gesture Controlled Presentation
+### ✋ Gesture Controlled Presentation
 
-Description:
-Computer-vision project that allows users to control presentation slides using hand gestures.
+Control presentation slides using hand gestures through computer vision.
 
-Tech Stack:
+**Tech:** Python • OpenCV • MediaPipe
+
+---
+
+### 💄 GlowAura
+
+AI-powered virtual beauty platform exploring intelligent makeup and virtual try-on experiences.
+
+**Focus:** AI • Computer Vision • Virtual Try-On • Web Development
+
+---
+
+### 🌱 Eco Campus
+
+A sustainability-focused application for tracking environmental activities and encouraging greener campus practices.
+
+**Focus:** Web Development • Sustainability • Data Tracking
+
+---
+
+# 🔬 Research Interests
+
+## Artificial Intelligence + Cloud Computing
+
+My current research interest is at the intersection of **Artificial Intelligence and Cloud Computing**.
+
+### 🔍 Research Direction
+
+**AI-Driven Energy-Efficient Resource Allocation in Cloud Data Centers**
+
+Exploring how Machine Learning and Reinforcement Learning can help optimize cloud resources while improving energy efficiency.
+
+### Areas of Interest
+
+`Artificial Intelligence`
+
+`Machine Learning`
+
+`Reinforcement Learning`
+
+`Cloud Computing`
+
+`Resource Allocation`
+
+`Energy Efficiency`
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+```text
 Python
-OpenCV
-MediaPipe
-
-Project 4:
-
-GlowAura
-
-Description:
-AI-powered virtual beauty platform exploring virtual makeup experiences.
-
-Focus:
-AI
-Computer Vision
-Virtual Try-On
-Web Development
-
-Project 5:
-
-Eco Campus
-
-Description:
-Sustainability-focused application for tracking campus environmental activities.
-
-Focus:
-Web Development
-Sustainability
-Data Tracking
-
-Do NOT invent features.
-
-Do NOT claim commercial users, users, revenue, awards, or deployment unless I provide those details.
-
-Where possible, include repository links using my GitHub username.
-
-==================================================
-6. RESEARCH INTERESTS
-==================================================
-
-Create a professional research section.
-
-Title:
-
-🔬 Research Interests
-
-Domain:
-
-Artificial Intelligence + Cloud Computing
-
-Current research direction:
-
-"AI-Driven Energy-Efficient Resource Allocation in Cloud Data Centers"
-
-Briefly explain:
-
-I am interested in exploring how Machine Learning and Reinforcement Learning can be used for intelligent resource allocation in cloud data centers while improving energy efficiency.
-
-Mention:
-
-Artificial Intelligence
-Machine Learning
-Reinforcement Learning
-Cloud Computing
-Resource Allocation
-Energy Efficiency
-
-Keep this section academic and concise.
-
-Do not claim that I have already published a research paper unless explicitly stated.
-
-==================================================
-7. CURRENTLY LEARNING
-==================================================
-
-Create a simple visual learning roadmap:
-
-Python
-↓
+   ↓
 Data Structures & Algorithms
-↓
+   ↓
 Machine Learning
-↓
+   ↓
 Generative AI & LLMs
-↓
+   ↓
 Cloud Computing
-↓
+   ↓
 AI + Cloud Research
-
-Make it visually clean.
-
-==================================================
-8. GITHUB CONTRIBUTION SNAKE
-==================================================
-
-Create a section:
-
-🐍 GitHub Contribution Snake
-
-Use:
-
-https://raw.githubusercontent.com/snehajadhav22/snehajadhav22/output/github-contribution-grid-snake.svg
-
-The section should show the GitHub contribution snake animation when the required workflow is configured.
-
-IMPORTANT:
-
-Do NOT claim it will work automatically just by adding the README code.
-
-After the README code, explain exactly which GitHub Actions workflow file I need to create to generate the snake SVG.
-
-==================================================
-9. GITHUB STATISTICS
-==================================================
-
-Create a compact GitHub Analytics section.
-
-Show:
-
-- GitHub statistics
-- Top languages
-- Contribution streak
-
-Use username:
-
-snehajadhav22
-
-Use professional styling such as a dark/modern theme.
-
-Do not add too many statistics widgets.
-
-==================================================
-10. 2026 GOALS
-==================================================
-
-Create a concise Goals section.
-
-Include:
-
-🚀 Build impactful AI applications
-🧠 Strengthen DSA and problem solving
-🤖 Master Machine Learning
-🧠 Explore Generative AI and LLMs
-☁️ Improve Cloud Computing skills
-🔬 Work on AI + Cloud research
-📄 Publish my first research paper
-🏆 Participate in hackathons
-🌱 Contribute to Open Source
-💼 Build a strong technical portfolio
-
-Use checkboxes if appropriate.
-
-==================================================
-11. CONNECT
-==================================================
-
-Create a professional Connect section.
-
-GitHub:
-
-https://github.com/snehajadhav22
-
-LinkedIn:
-
-YOUR_LINKEDIN_URL
-
-LeetCode:
-
-YOUR_LEETCODE_URL
-
-Use professional badges/buttons.
-
-==================================================
-12. FINAL FOOTER
-==================================================
-
-Create a simple centered footer:
-
-"Learn • Build • Solve • Research • Grow 🚀"
-
-Do not add unnecessary quotes or generic text.
-
-==================================================
-IMPORTANT FINAL RULES
-==================================================
-
-1. Give me the COMPLETE README.md in ONE code block.
-
-2. Make it ready to copy and paste into GitHub.
-
-3. Do NOT give explanations inside the README.
-
-4. Do NOT use fake achievements.
-
-5. Do NOT use fake DSA numbers.
-
-6. Do NOT use fake LeetCode statistics.
-
-7. Do NOT invent certifications.
-
-8. Do NOT invent awards.
-
-9. Do NOT invent work experience.
-
-10. Do NOT claim technologies I have not mentioned.
-
-11. Use my exact GitHub username:
-snehajadhav22
-
-12. Use my exact photo filename:
-sneha.jpeg
-
-13. Use:
-./sneha.jpeg
-
-for the photo path.
-
-14. Do not use profile.jpg.
-
-15. Make sure the HTML/Markdown is compatible with GitHub.
-
-16. Make the photo visible and prominent.
-
-17. Keep the README professional rather than excessively long.
-
-18. Make the DSA section visually attractive and easy to update.
-
-19. Make the DSA section capable of showing REAL LeetCode statistics later.
-
-20. Include the contribution Snake section.
-
-21. After the README code block, provide a short setup guide explaining:
-
-   A. Where to put sneha.jpeg
-   B. How to add the README
-   C. How to configure the GitHub Contribution Snake
-   D. How to connect real LeetCode statistics
-   E. What files/workflows need to be created
-
-22. Do not make me manually edit dozens of places.
-
-23. Use placeholders ONLY for information I have not provided:
-   YOUR_LINKEDIN_URL
-   YOUR_LEETCODE_URL
-
-24. Make the final result look like a professional developer/researcher profile rather than a beginner profile.
-
-25. The final README should have this overall structure:
-
-PHOTO + HERO
-↓
-ABOUT ME
-↓
-TECH STACK
-↓
-PROBLEM SOLVING / DSA
-↓
-FEATURED PROJECTS
-↓
-RESEARCH INTERESTS
-↓
-CURRENTLY LEARNING
-↓
-GITHUB CONTRIBUTION SNAKE
-↓
-GITHUB STATS
-↓
-2026 GOALS
-↓
-CONNECT
-↓
-FOOTER
