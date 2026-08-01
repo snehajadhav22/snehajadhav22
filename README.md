@@ -1,82 +1,77 @@
 <div align="center">
 
-<img src="./sneha.jpeg" width="170" height="170" style="border-radius:50%;" alt="Sneha Jadhav">
+# Sneha Jadhav
 
-# Hi 👋, I'm Sneha Jadhav
+### MSc Computer Science | AI & Machine Learning | Python | Full-Stack Development
 
-### MSc Computer Science Student | AI & ML Enthusiast | Python Developer
-
-**Building • Learning • Solving • Researching**
+Building intelligent applications • Solving problems • Exploring AI & Cloud
 
 <br>
 
 <a href="https://github.com/snehajadhav22">
-<img src="https://img.shields.io/badge/GitHub-snehajadhav22-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/sneha-jadhavv/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 **MSc Computer Science Student**
+I'm an **MSc Computer Science student** interested in Artificial
+Intelligence, Machine Learning, software development, and cloud computing.
 
-🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Python & Data Structures
+- 💻 Full-Stack Development
+- ☁️ Cloud Computing
+- 🔬 AI + Cloud Research
+- 🚀 Building practical, real-world applications
 
-🐍 Strengthening **Python, Data Structures & Algorithms**
-
-💻 Building **AI-powered and full-stack applications**
-
-☁️ Exploring **Cloud Computing**
-
-🔬 Interested in **AI + Cloud research**
-
-🌱 Learning continuously through projects, problem solving and research
-
-🚀 Interested in building practical technology that solves real-world problems
+Currently, I'm focused on strengthening my **problem-solving, Machine
+Learning, Generative AI, and cloud computing skills**.
 
 ---
 
-# 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### 💻 Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
 </p>
 
-### 🌐 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
-### 🤖 AI / ML
+### AI / ML
 
-`Google Gemini API` • `OpenCV` • `MediaPipe` • `Scikit-Learn`
+`Google Gemini API` · `OpenCV` · `MediaPipe` · `Scikit-Learn`
 
-### ☁️ Cloud & Tools
+### Cloud & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
@@ -88,43 +83,34 @@
 
 <div align="center">
 
-### 💻 My Coding Progress
+### 💻 Live Coding Progress
 
 <a href="YOUR_LEETCODE_URL">
 
-<!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username -->
-
 <img
-src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap"
-width="750"
-alt="LeetCode Statistics"
+src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap"
+width="720"
+alt="Live LeetCode Statistics"
 />
 
 </a>
 
 <br><br>
 
-### 🎯 DSA Journey
+### DSA Focus
 
-🟢 **Easy** &nbsp;&nbsp;&nbsp; 🟡 **Medium** &nbsp;&nbsp;&nbsp; 🔴 **Hard**
+`Arrays` · `Strings` · `Hashing` · `Sorting`
 
-<br><br>
+`Binary Search` · `Two Pointers` · `Sliding Window`
 
-📊 **Problems Solved** • 🔥 **Coding Activity** • 🏆 **Badges** • 📅 **Submission Heatmap**
+`Linked Lists` · `Stack` · `Queue`
+
+`Trees` · `Graphs` · `Dynamic Programming`
 
 </div>
 
-### 📚 Topics I'm Practicing
-
-`Arrays` • `Strings` • `Hashing` • `Sorting`
-
-`Searching` • `Binary Search` • `Two Pointers`
-
-`Sliding Window` • `Linked Lists` • `Stack` • `Queue`
-
-`Trees` • `Graphs` • `Dynamic Programming`
-
-> 🎯 **Goal:** Build strong problem-solving skills through consistent practice and understanding patterns rather than simply counting problems.
+> 🎯 My goal is to develop strong algorithmic thinking by understanding
+> problem-solving patterns and consistently practicing.
 
 ---
 
@@ -143,77 +129,83 @@ alt="GitHub Contribution Snake"
 
 # 🚀 Featured Projects
 
-## 🤖 CareerPilot AI
+### 🤖 CareerPilot AI
 
-An AI-powered career guidance platform designed to turn career goals into personalized action plans.
+AI-powered career guidance platform designed to turn career goals into
+personalized action plans.
 
-**Tech:** React • Vite • Node.js • Express • MongoDB • JWT • Gemini API
-
----
-
-## 🤖 CodeMentor AI
-
-An AI-powered coding and interview preparation platform designed to help learners improve their technical skills.
-
-**Tech:** React • FastAPI • MongoDB • Gemini AI
+**Tech:** React · Vite · Node.js · Express · MongoDB · JWT · Gemini API
 
 ---
 
-## 📚 AI Study Planner
+### 🤖 CodeMentor AI
 
-An AI-powered study planning concept designed to create personalized learning plans and improve study consistency.
+AI-powered coding and technical interview preparation platform.
 
-**Focus:** Artificial Intelligence • Personalization • Education
-
----
-
-## ✋ Gesture Controlled Presentation
-
-A computer-vision project that allows presentation slides to be controlled using hand gestures.
-
-**Tech:** Python • OpenCV • MediaPipe
+**Tech:** React · FastAPI · MongoDB · Gemini AI
 
 ---
 
-## 💄 GlowAura
+### 📚 AI Study Planner
 
-An AI-powered virtual beauty platform exploring intelligent makeup recommendations and virtual try-on experiences.
+AI-powered study planning application designed to create personalized
+learning plans and improve study consistency.
 
-**Focus:** AI • Computer Vision • Virtual Try-On • Web Development
-
----
-
-## 🌱 Eco Campus
-
-A sustainability-focused application designed to track environmental activities and encourage greener campus practices.
-
-**Focus:** Web Development • Sustainability • Data Tracking
+**Focus:** Artificial Intelligence · Personalization · Education
 
 ---
 
-## 📅 Campus Event Finder
+### ✋ Gesture Controlled Presentation
 
-A platform designed to help students discover and manage campus events.
+Computer vision application that allows presentation slides to be
+controlled using hand gestures.
 
-**Focus:** Web Development • Student Community • Event Discovery
+**Tech:** Python · OpenCV · MediaPipe
 
 ---
 
-# 🔬 AI + Cloud Research
+### 💄 GlowAura
 
-## Research Interest
+AI-powered virtual beauty platform exploring intelligent makeup
+recommendations and virtual try-on experiences.
 
-I'm exploring the intersection of:
+**Focus:** AI · Computer Vision · Virtual Try-On · Web Development
 
-**Artificial Intelligence + Cloud Computing**
+---
 
-### 🔍 Research Direction
+### 🌱 Eco Campus
+
+Sustainability-focused application designed to track environmental
+activities and encourage greener campus practices.
+
+**Focus:** Web Development · Sustainability · Data Tracking
+
+---
+
+### 📅 Campus Event Finder
+
+Application designed to help students discover and manage campus events.
+
+**Focus:** Web Development · Student Community · Event Discovery
+
+---
+
+# 🔬 Research
+
+## Artificial Intelligence + Cloud Computing
+
+I'm interested in exploring the intersection of **Artificial Intelligence
+and Cloud Computing**, particularly intelligent resource management in
+cloud environments.
+
+### Current Research Direction
 
 **AI-Driven Energy-Efficient Resource Allocation in Cloud Data Centers**
 
-Exploring how Machine Learning and Reinforcement Learning can be used to optimize cloud resources while improving energy efficiency.
+Exploring how Machine Learning and Reinforcement Learning can be applied
+to optimize cloud resources while improving energy efficiency.
 
-### Areas of Interest
+### Research Areas
 
 `Artificial Intelligence`
 
@@ -233,15 +225,105 @@ Exploring how Machine Learning and Reinforcement Learning can be used to optimiz
 
 <div align="center">
 
-```text
-Python
-   ↓
-Data Structures & Algorithms
-   ↓
-Machine Learning
-   ↓
-Generative AI & LLMs
-   ↓
-Cloud Computing
-   ↓
-AI + Cloud Research
+**Python**
+↓  
+**Data Structures & Algorithms**
+↓  
+**Machine Learning**
+↓  
+**Generative AI & LLMs**
+↓  
+**Cloud Computing**
+↓  
+**AI Research**
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=snehajadhav22&show_icons=true&theme=tokyonight&hide_border=true"
+alt="GitHub Statistics"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehajadhav22&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages"
+/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=snehajadhav22&theme=tokyonight&hide_border=true"
+alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=snehajadhav22&theme=tokyo-night&hide_border=true"
+alt="GitHub Contribution Activity"
+/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build impactful AI applications
+- 🧠 Strengthen Data Structures & Algorithms
+- 🤖 Master Machine Learning
+- 🧩 Explore Generative AI and LLMs
+- ☁️ Improve Cloud Computing
+- 🔬 Work on AI + Cloud research
+- 📄 Publish my first research paper
+- 🏆 Participate in hackathons
+- 🌐 Contribute to Open Source
+- 💼 Build a strong software development portfolio
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/snehajadhav22">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/sneha-jadhavv/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Learn • Build • Solve • Research 🚀
+
+</div>
