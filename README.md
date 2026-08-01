@@ -2,343 +2,124 @@
 
 # Sneha Jadhav
 
-### MSc Computer Science | AI & Machine Learning | Python | Full-Stack Development
+### MSc Computer Science | AI & ML | Python | Full-Stack Development
 
-Building intelligent applications • Solving problems • Exploring AI & Cloud
+Building AI-powered applications and exploring intelligent solutions with
+**Artificial Intelligence, Machine Learning & Cloud Computing.**
 
 <br>
 
 <a href="https://github.com/snehajadhav22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
-
 <a href="https://www.linkedin.com/in/sneha-jadhavv/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
-
 <a href="https://leetcode.com/u/snehajadhav2205/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I'm an **MSc Computer Science student** interested in Artificial Intelligence,
-Machine Learning, software development, and cloud computing.
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🐍 Python & Data Structures
-- 💻 Full-Stack Development
-- ☁️ Cloud Computing
-- 🔬 AI + Cloud Research
-- 🚀 Building practical, real-world applications
-
-Currently focused on strengthening my **problem-solving, Machine Learning,
-Generative AI, and Cloud Computing skills**.
+- 🎓 MSc Computer Science student
+- 🤖 Focused on AI, Machine Learning & Generative AI
+- 🐍 Building skills in Python & Data Structures
+- 💻 Developing AI-powered and full-stack applications
+- ☁️ Exploring Cloud Computing
+- 🔬 Interested in AI + Cloud research
 
 ---
 
-## ⚡ Tech Stack
-
-### Languages
+## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,express,fastapi,mongodb,mysql,firebase,aws,docker,git,github" />
 </p>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### AI / Machine Learning
-
-`Google Gemini API` · `OpenCV` · `MediaPipe` · `Scikit-Learn`
-
-### Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
-</p>
+**AI / ML:** Gemini API · OpenCV · MediaPipe · Scikit-Learn
 
 ---
 
-# 🧩 Problem Solving & DSA
+## Problem Solving
 
 <div align="center">
-
-### 💻 Live LeetCode Progress
 
 <a href="https://leetcode.com/u/snehajadhav2205/">
 
 <img
 src="https://leetcard.jacoblin.cool/snehajadhav2205?theme=dark&ext=heatmap"
-width="720"
+width="650"
 alt="LeetCode Statistics"
 />
 
 </a>
 
-<br><br>
-
-<a href="https://leetcode.com/u/snehajadhav2205/">
-<img
-src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-/>
-</a>
-
-<br><br>
-
-### DSA Focus
-
-`Arrays` · `Strings` · `Hashing` · `Sorting`
-
-`Binary Search` · `Two Pointers` · `Sliding Window`
-
-`Linked Lists` · `Stack` · `Queue`
-
-`Trees` · `Graphs` · `Dynamic Programming`
-
-</div>
-
-> 🎯 **Goal:** Build strong algorithmic thinking by understanding patterns
-> and consistently solving problems.
-
----
-
-# 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/snehajadhav22/snehajadhav22/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-/>
-
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 CareerPilot AI
+**CareerPilot AI**  
+AI-powered career guidance and personalized action planning.  
+`React` `Node.js` `Express` `MongoDB` `Gemini API`
 
-AI-powered career guidance platform designed to turn career goals into
-personalized action plans.
+**CodeMentor AI**  
+AI-powered coding and technical interview preparation platform.  
+`React` `FastAPI` `MongoDB` `Gemini AI`
 
-**Tech Stack:**  
-React · Vite · Node.js · Express · MongoDB · JWT · Gemini API
+**GlowAura**  
+AI-powered virtual beauty and makeup experience.  
+`AI` `Computer Vision` `Virtual Try-On`
 
----
+**Gesture Controlled Presentation**  
+Control presentation slides using hand gestures.  
+`Python` `OpenCV` `MediaPipe`
 
-### 🤖 CodeMentor AI
-
-AI-powered coding and technical interview preparation platform.
-
-**Tech Stack:**  
-React · FastAPI · MongoDB · Gemini AI
-
----
-
-### 📚 AI Study Planner
-
-AI-powered study planning application designed to create personalized
-learning plans and improve study consistency.
-
-**Focus:**  
-Artificial Intelligence · Personalization · Education
+**Eco Campus**  
+Sustainability-focused campus tracking application.  
+`Web Development` `Data Tracking`
 
 ---
 
-### ✋ Gesture Controlled Presentation
+## Research
 
-Computer vision application that allows presentation slides to be
-controlled using hand gestures.
+**AI + Cloud Computing**
 
-**Tech Stack:**  
-Python · OpenCV · MediaPipe
+**Research Direction:**  
+AI-Driven Energy-Efficient Resource Allocation in Cloud Data Centers
 
----
-
-### 💄 GlowAura
-
-AI-powered virtual beauty platform exploring intelligent makeup
-recommendations and virtual try-on experiences.
-
-**Focus:**  
-AI · Computer Vision · Virtual Try-On · Web Development
+**Interests:**  
+Machine Learning · Reinforcement Learning · Cloud Computing · Resource Optimization
 
 ---
 
-### 🌱 Eco Campus
+## Currently Learning
 
-Sustainability-focused application designed to track environmental
-activities and encourage greener campus practices.
-
-**Focus:**  
-Web Development · Sustainability · Data Tracking
+`Python` → `DSA` → `Machine Learning` → `Generative AI` → `LLMs` → `Cloud`
 
 ---
 
-### 📅 Campus Event Finder
-
-Application designed to help students discover and manage campus events.
-
-**Focus:**  
-Web Development · Student Community · Event Discovery
-
----
-
-# 🔬 Research
-
-## Artificial Intelligence + Cloud Computing
-
-I'm interested in exploring the intersection of **Artificial Intelligence
-and Cloud Computing**, particularly intelligent resource management in
-cloud environments.
-
-### Current Research Direction
-
-**AI-Driven Energy-Efficient Resource Allocation in Cloud Data Centers**
-
-Exploring how Machine Learning and Reinforcement Learning can be applied
-to optimize cloud resources while improving energy efficiency.
-
-### Research Areas
-
-`Artificial Intelligence`
-
-`Machine Learning`
-
-`Reinforcement Learning`
-
-`Cloud Computing`
-
-`Resource Allocation`
-
-`Energy Efficiency`
-
----
-
-# 📚 Currently Learning
+## GitHub Stats
 
 <div align="center">
 
-**Python**
-↓  
-**Data Structures & Algorithms**
-↓  
-**Machine Learning**
-↓  
-**Generative AI & LLMs**
-↓  
-**Cloud Computing**
-↓  
-**AI Research**
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=snehajadhav22&show_icons=true&theme=tokyonight&hide_border=true">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehajadhav22&layout=compact&theme=tokyonight&hide_border=true">
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
-
 <div align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=snehajadhav22&show_icons=true&theme=tokyonight&hide_border=true"
-alt="GitHub Statistics"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehajadhav22&layout=compact&theme=tokyonight&hide_border=true"
-alt="Top Languages"
-/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=snehajadhav22&theme=tokyonight&hide_border=true"
-alt="GitHub Contribution Streak"
-/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=snehajadhav22&theme=tokyo-night&hide_border=true"
-alt="GitHub Contribution Activity"
-/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build impactful AI applications
-- 🧠 Strengthen Data Structures & Algorithms
-- 🤖 Master Machine Learning
-- 🧩 Explore Generative AI and LLMs
-- ☁️ Improve Cloud Computing
-- 🔬 Work on AI + Cloud research
-- 📄 Publish my first research paper
-- 🏆 Participate in hackathons
-- 🌐 Contribute to Open Source
-- 💼 Build a strong software development portfolio
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/snehajadhav22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/sneha-jadhavv/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://leetcode.com/u/snehajadhav2205/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Learn • Build • Solve • Research 🚀
+### Learn • Build • Solve • Research
 
 </div>
