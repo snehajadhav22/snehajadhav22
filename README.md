@@ -1,4 +1,4 @@
-:::writing{variant="document" id="59274"}
+
 # 👋 Hi, I'm Sneha Jadhav
 
 ### MSc Computer Science | AI & Machine Learning | Python Developer
