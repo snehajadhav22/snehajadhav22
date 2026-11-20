@@ -1,143 +1,33 @@
-<div align="center">
 
-# Sneha Jadhav
+name: Generate Contribution Snake
 
-### MSc Computer Science | AI & Machine Learning | Python | Full-Stack Development
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
-Building intelligent applications and exploring
-**AI, Machine Learning & Cloud Computing.**
+permissions:
+  contents: write
 
-<br>
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: snehajadhav22
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-<a href="https://github.com/snehajadhav22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/sneha-jadhavv/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://leetcode.com/u/snehajadhav2205/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 MSc Computer Science Student
-- 🤖 AI & Machine Learning Enthusiast
-- 🐍 Python & Data Structures
-- 💻 Full-Stack Development
-- ☁️ Cloud Computing
-- 🔬 AI + Cloud Research
-
-Currently focused on **DSA, Machine Learning, Generative AI, and Cloud Computing**.
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,express,fastapi,mongodb,mysql,firebase,aws,docker,git,github" />
-</p>
-
-**AI / ML:** Gemini API · OpenCV · MediaPipe · Scikit-Learn
-
----
-
-## 🧩 Problem Solving & DSA
-
-<div align="center">
-
-<a href="https://leetcode.com/u/snehajadhav2205/">
-
-<img
-src="https://leetcard.jacoblin.cool/snehajadhav2205?theme=dark&ext=heatmap"
-width="650"
-alt="LeetCode Statistics"
-/>
-
-</a>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 CareerPilot AI
-
-AI-powered career guidance and personalized action planning.
-
-`React` `Node.js` `Express` `MongoDB` `Gemini API`
-
-### 🤖 CodeMentor AI
-
-AI-powered coding and technical interview preparation platform.
-
-`React` `FastAPI` `MongoDB` `Gemini AI`
-
-### 📚 AI Study Planner
-
-Personalized AI-powered study planning application.
-
-`AI` `Personalization` `Education`
-
-### ✋ Gesture Controlled Presentation
-
-Computer vision application for controlling presentation slides using hand gestures.
-
-`Python` `OpenCV` `MediaPipe`
-
-### 💄 GlowAura
-
-AI-powered virtual beauty and makeup experience.
-
-`AI` `Computer Vision` `Virtual Try-On`
-
-### 🌱 Eco Campus
-
-Campus sustainability tracking application.
-
-`Web Development` `Data Tracking`
-
-### 📅 Campus Event Finder
-
-Platform for discovering and managing campus events.
-
-`Web Development` `Event Discovery`
-
----
-
-## 🔬 Research
-
-### AI + Cloud Computing
-
-**Research Direction:**  
-AI-Driven Energy-Efficient Resource Allocation in Cloud Data Centers
-
-**Focus:**  
-Machine Learning · Reinforcement Learning · Cloud Computing · Resource Optimization
-
----
-
-## 📚 Currently Learning
-
-`Python` → `DSA` → `Machine Learning` → `Generative AI` → `LLMs` → `Cloud` → `AI Research`
-
----
-
-## 🎯 2026 Focus
-
-**AI & ML** · **DSA** · **Generative AI** · **Cloud Computing** · **Research** · **Open Source**
-
----
-
-<div align="center">
-
-### Learn • Build • Solve • Research 🚀
-
-</div>
+      - name: Deploy to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
