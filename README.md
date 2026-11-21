@@ -152,7 +152,6 @@ Exploring how Artificial Intelligence and Machine Learning can improve cloud res
 ## 🌱 Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/DSA-181717?style=flat-square" />
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square" />
   <img src="https://img.shields.io/badge/Generative_AI-8E75B2?style=flat-square" />
